@@ -63,6 +63,17 @@ Here's what I've worked with so far. New languages don't scare me — Rust is on
     </p>
 </details>
 
+## 📌 Pinned Areas
+
+<div align="center">
+<a href="https://github.com/GuillaumeVaudet?tab=repositories&q=holberton" title="My journey at Holberton School — C, systems, low-level programming">
+<img src="./images/orga/Holberton.png" width="330" height="180"/>
+</a>
+<a href="https://github.com/GuillaumeVaudet?tab=repositories&q=certifications" title="Badges and certifications I've earned along the way">
+<img src="./images/orga/Certifications.png" width="330" height="180"/>
+</a>
+</div>
+
 ## 🎮 Hobbies
 The stack doesn't define me. But it helps.
 ## 📺 Favorite Shows
