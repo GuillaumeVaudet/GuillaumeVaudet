@@ -63,17 +63,6 @@ Here's what I've worked with so far. New languages don't scare me — Rust is on
     </p>
 </details>
 
-## 🏢 My Organizations
-
-<div align="center">
-<table>
-<tr>
-<td><a href="https://github.com/GuillaumeVaudet-Holberton"><img src="./images/orga/Holberton.png" width="330" height="180"/></a></td>
-<td><a href="https://github.com/GuillaumeVaudet-Certifications"><img src="./images/orga/Certifications.png" width="330" height="180"/></a></td>
-</tr>
-</table>
-</div>
-
 ## 🎮 Hobbies
 The stack doesn't define me. But it helps.
 ## 📺 Favorite Shows
